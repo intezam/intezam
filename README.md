@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m @intezam<br>I am a Web Developer and Founder of Ali Web Design<br>My Company Website is https://aliwebdesign.com/<br>How to reach me<br>My Contact No. - +91 7063724137<br>Email ID - intezam.ali7063@gmail.com / info@aliwebdesign.com<br>
+Hi, I’m @intezam<br>I am a Web Developer and Founder of Ali Web Design<br>Website is https://aliwebdesign.com/<br>How to reach me<br>My Contact No. - +91 7063724137<br>Email ID - intezam.ali7063@gmail.com / info@aliwebdesign.com<br>
 
 
 ## 🌐 Socials:
